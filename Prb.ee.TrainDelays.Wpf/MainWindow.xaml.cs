@@ -88,7 +88,7 @@ namespace Prb.ee.TrainDelays.Wpf
             }
 
 
-            if (lstAllDelays.Items.Count == 10)
+            if (lstBigDelays.Items.Count == 10)
             {
                 btnAddDelay.IsEnabled = false;
                 MessageBox.Show("Je hebt al te veel grote vertragingen, dien eerst je formulier in bij de NMBS!", "Fout", MessageBoxButton.OK, MessageBoxImage.Error);
