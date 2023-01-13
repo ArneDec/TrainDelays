@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Prb.ee.TrainDelays.Wpf/1.0.0": {
+        "runtime": {
+          "Prb.ee.TrainDelays.Wpf.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prb.ee.TrainDelays.Wpf/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
